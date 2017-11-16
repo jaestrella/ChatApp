@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145707616448",
+    "firebase_url": "https://chat2app-602f4.firebaseio.com",
+    "project_id": "chat2app-602f4",
+    "storage_bucket": "chat2app-602f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145707616448:android:10a49216047353e9",
+        "android_client_info": {
+          "package_name": "com.iesvirgendelcarmen.dam.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145707616448-il9m425fl2fp0umd98qsgco5e2fepav3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iesvirgendelcarmen.dam.chat2app",
+            "certificate_hash": "7893c6d0ed8c6b7917637ff13d5431f115b39b59"
+          }
+        },
+        {
+          "client_id": "145707616448-rk2djcdanfedf5nkqml8q1rnqs0o5o0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlfknvkU9s4UBY-9AhUGoWUoIksAkPxfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145707616448-rk2djcdanfedf5nkqml8q1rnqs0o5o0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
